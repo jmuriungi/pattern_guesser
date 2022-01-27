@@ -17,11 +17,5 @@ If the pattern is, for example, Middle->Right->Left->Up->down (MRLUD), when user
 __Assumptions Made__
 The main assumption we made was that we would be able to randomize the patterns with no much difficulty. However, we found out that randomization using VHDL is more complex and requires extra libraries and methods. This is why, we decided to hard-code patterns that the user can choose from. This way, we still offer a good user experience.
 
-## Hardware Diagram
-<img src="Images/HardwareImplementation.JPG" width="800">
-
-## Moore Machine Diagram
-<img src="Images/MooreMachine.JPG" width="800">
-
 ## Works Cited
 Dr. Kent Jones' slides
